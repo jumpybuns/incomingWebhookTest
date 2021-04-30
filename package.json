@@ -60,6 +60,7 @@
     "postcss-nested": "^5.0.5",
     "prettier": "^2.2.1",
     "prop-types": "^15.7.2",
+    "react-app-env": "^1.2.3",
     "style-loader": "^2.0.0",
     "url-loader": "^4.1.1",
     "webpack": "^5.36.2",

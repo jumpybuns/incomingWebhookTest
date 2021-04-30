@@ -26,8 +26,11 @@ export default class App extends Component {
       <>
         <form onSubmit={this.handleSubmit}>
           <label className="input1">
-            TextBox
-            <input onChange={this.handleChange} type="text" />
+            <input
+              placeholder="text"
+              onChange={this.handleChange}
+              type="text"
+            />
           </label>
           <button>Submit</button>
         </form>
